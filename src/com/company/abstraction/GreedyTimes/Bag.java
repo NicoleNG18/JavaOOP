@@ -1,4 +1,4 @@
-package com.company.abstraction;
+package com.company.abstraction.GreedyTimes;
 
 import java.util.Collection;
 import java.util.LinkedHashMap;
