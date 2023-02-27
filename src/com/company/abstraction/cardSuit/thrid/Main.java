@@ -1,8 +1,6 @@
 package com.company.abstraction.cardSuit.thrid;
 
 
-import com.company.abstraction.cardSuit.CardSuit;
-
 import java.util.Scanner;
 
 public class Main {

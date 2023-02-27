@@ -1,4 +1,4 @@
-package com.company.abstraction.cardSuit;
+package com.company.abstraction.cardSuit.thrid;
 
 public enum CardSuit {
 
