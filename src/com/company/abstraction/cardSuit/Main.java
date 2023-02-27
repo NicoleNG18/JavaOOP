@@ -1,5 +1,6 @@
-package com.company.abstraction.cardSuit.thrid;
+package com.company.abstraction.cardSuit;
 
+import com.company.abstraction.cardSuit.thrid.CardSuit;
 
 import java.util.Scanner;
 
@@ -11,7 +12,7 @@ public class Main {
         String suit = scanner.nextLine();
 
         System.out.printf("Card name: %s of %s; Card power: %d", rank, suit, CardSuit.valueOf(suit).getValue()+
-                CardSuit.CardRank.valueOf(rank).getValue());
+               CardSuit.CardRank.valueOf(rank).getValue());
 
     }
 }

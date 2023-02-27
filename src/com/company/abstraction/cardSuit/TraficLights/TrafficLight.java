@@ -1,4 +1,4 @@
-package com.company.abstraction.cardSuit.thrid;
+package com.company.abstraction.cardSuit.TraficLights;
 
 public class TrafficLight {
 
