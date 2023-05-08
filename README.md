@@ -14,3 +14,7 @@ This repository includes the problems solved during the Java OOP course. I have 
 -MySQL - September 2022 (Grade: 6.00)
 
 -Spring Data - October 2022 (Grade: 6.00)
+
+-Spring Fundamentals - January 2023 (Grade: 6.00)
+
+Spring Advanced - February 2023 (Grade: 5.94)
