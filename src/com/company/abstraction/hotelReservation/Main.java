@@ -13,10 +13,10 @@ public class Main {
         String season=input[2];
         String discType=input[3];
 
-        PriceCalculator calculateThePrice=new PriceCalculator(pricePerDay,numOfDays,
-                Season.valueOf(season),DiscountType.valueOf(discType));
+//        PriceCalculator calculateThePrice=new PriceCalculator(pricePerDay,numOfDays,
+//                Season.valueOf(season),DiscountType.valueOf(discType));
 
-        System.out.printf("%.2f",calculateThePrice.returnThePrice());
+//        System.out.printf("%.2f",calculateThePrice.returnThePrice());
 
     }
 }
