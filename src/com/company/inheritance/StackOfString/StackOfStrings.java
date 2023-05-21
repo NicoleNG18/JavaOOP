@@ -1,4 +1,4 @@
-package com.company.inheritance;
+package com.company.inheritance.StackOfString;
 
 import java.util.ArrayList;
 import java.util.List;
