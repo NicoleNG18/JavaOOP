@@ -8,12 +8,12 @@ public class Main {
 
         StringBuilder text = new StringBuilder(scanner.nextLine());
 
-        CommandInterface commandInterface = Initialization.buildCommandInterface(text);
+//        CommandInterface commandInterface = Initialization.buildCommandInterface(text);
 
         String inputLine = scanner.nextLine();
 
         while(!inputLine.equals("exit")) {
-            commandInterface.handleInput(inputLine);
+//            commandInterface.handleInput(inputLine);
             inputLine = scanner.nextLine();
         }
 
