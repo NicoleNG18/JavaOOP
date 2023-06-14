@@ -1,4 +1,4 @@
-package com.company.Interfaces;
+package com.company.Interfaces.BirthdayCelebrations;
 
 public class Citizen implements Birthable,Identifiable{
     private String name;

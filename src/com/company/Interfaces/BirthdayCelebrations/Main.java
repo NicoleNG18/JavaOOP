@@ -1,4 +1,4 @@
-package com.company.Interfaces;
+package com.company.Interfaces.BirthdayCelebrations;
 
 import java.util.ArrayList;
 import java.util.List;

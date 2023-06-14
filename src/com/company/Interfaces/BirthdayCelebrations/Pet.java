@@ -1,4 +1,4 @@
-package com.company.Interfaces;
+package com.company.Interfaces.BirthdayCelebrations;
 
 public class Pet implements Birthable{
     private String name;
