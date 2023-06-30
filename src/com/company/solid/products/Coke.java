@@ -1,4 +1,4 @@
-package com.company.solid;
+package com.company.solid.products;
 
 public class Coke extends Product{
 

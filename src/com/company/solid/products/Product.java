@@ -1,4 +1,4 @@
-package com.company.solid;
+package com.company.solid.products;
 
 public abstract class Product implements IProduct {
 
