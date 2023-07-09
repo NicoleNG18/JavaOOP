@@ -1,4 +1,6 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.units;
+
+import com.company.reflectionAndAnnotation.barakWars.interfaces.Unit;
 
 public abstract class AbstractUnit implements Unit {
     private int health;

@@ -1,4 +1,6 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.core.commands;
+
+import com.company.reflectionAndAnnotation.barakWars.interfaces.Executable;
 
 public abstract class Command implements Executable {
 

@@ -1,5 +1,9 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.core.commands;
 
+import com.company.reflectionAndAnnotation.barakWars.core.annotations.Inject;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.Repository;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.Unit;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.UnitFactory;
 import jdk.jshell.spi.ExecutionControl;
 
 import java.lang.reflect.InvocationTargetException;

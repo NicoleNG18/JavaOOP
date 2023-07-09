@@ -1,4 +1,4 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.units;
 
 public class Gunner extends AbstractUnit{
 

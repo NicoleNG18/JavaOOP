@@ -1,4 +1,10 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.core.commands;
+
+import com.company.reflectionAndAnnotation.barakWars.core.annotations.Inject;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.CommandInterpreter;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.Executable;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.Repository;
+import com.company.reflectionAndAnnotation.barakWars.interfaces.UnitFactory;
 
 import java.lang.reflect.Field;
 

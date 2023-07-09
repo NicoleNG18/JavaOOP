@@ -1,4 +1,4 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.interfaces;
 
 public interface CommandInterpreter {
 

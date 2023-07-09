@@ -1,4 +1,4 @@
-package com.company.reflectionAndAnnotation;
+package com.company.reflectionAndAnnotation.barakWars.units;
 
 public class Archer extends AbstractUnit {
     private static final int ARCHER_HEALTH = 25;
