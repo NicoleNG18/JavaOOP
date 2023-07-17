@@ -1,8 +1,8 @@
-package com.company.UnitTesting.tests;
+package com.company.UnitTesting.lab.tests;
 
-import com.company.UnitTesting.Hero;
-import com.company.UnitTesting.Target;
-import com.company.UnitTesting.Weapon;
+import com.company.UnitTesting.lab.Hero;
+import com.company.UnitTesting.lab.Target;
+import com.company.UnitTesting.lab.Weapon;
 
 public class HeroTest {
 

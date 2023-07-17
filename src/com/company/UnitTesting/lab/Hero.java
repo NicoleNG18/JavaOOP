@@ -1,4 +1,4 @@
-package com.company.UnitTesting;
+package com.company.UnitTesting.lab;
 
 public class Hero {
 

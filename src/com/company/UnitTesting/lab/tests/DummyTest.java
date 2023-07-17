@@ -1,6 +1,6 @@
-package com.company.UnitTesting.tests;
+package com.company.UnitTesting.lab.tests;
 
-import com.company.UnitTesting.Dummy;
+import com.company.UnitTesting.lab.Dummy;
 
 public class DummyTest {
 
