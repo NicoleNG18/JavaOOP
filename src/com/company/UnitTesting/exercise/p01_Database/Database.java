@@ -1,4 +1,4 @@
-package com.company.UnitTesting.exercise;
+package com.company.UnitTesting.exercise.p01_Database;
 
 import javax.naming.OperationNotSupportedException;
 
