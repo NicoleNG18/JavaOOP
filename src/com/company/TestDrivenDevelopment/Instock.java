@@ -1,5 +1,11 @@
 package com.company.TestDrivenDevelopment;
 
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.Iterator;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class Instock implements ProductStock {
 
     List<Product> products;
