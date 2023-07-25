@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01;
+package com.company.HighQualityStructureExam01.core;
 
 public class ConstantMessages {
     public static final String NOT_ENOUGH_CAPACITY = "Not enough capacity.";
