@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01;
+package com.company.HighQualityStructureExam01.core;
 
 import java.util.*;
 import java.util.stream.Collectors;

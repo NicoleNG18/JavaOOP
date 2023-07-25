@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.core;
+package com.company.HighQualityStructureExam01.common;
 
 public enum Command {
     AddField,

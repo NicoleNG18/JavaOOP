@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.core;
+package com.company.HighQualityStructureExam01.common;
 
 public class ExceptionMessages {
     public static final String PLAYER_NAME_NULL_OR_EMPTY = "Player name cannot be null or empty.";

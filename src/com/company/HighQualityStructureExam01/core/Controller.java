@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01;
+package com.company.HighQualityStructureExam01.core;
 
 public interface Controller {
     String addField(String fieldType, String fieldName);

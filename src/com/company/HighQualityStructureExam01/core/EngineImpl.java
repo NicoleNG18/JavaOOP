@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01;
+package com.company.HighQualityStructureExam01.core;
 
 public class EngineImpl implements Engine {
     private Controller controller;
