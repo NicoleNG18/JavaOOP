@@ -1,5 +1,14 @@
 package com.company.HighQualityStructureExam01.entities.field;
 
+import com.company.HighQualityStructureExam01.entities.player.Player;
+import com.company.HighQualityStructureExam01.entities.supplement.Supplement;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+import static com.company.HighQualityStructureExam01.common.ConstantMessages.NOT_ENOUGH_CAPACITY;
+import static com.company.HighQualityStructureExam01.common.ExceptionMessages.FIELD_NAME_NULL_OR_EMPTY;
+
 public abstract class BaseField implements Field {
     private String name;
     private int capacity;

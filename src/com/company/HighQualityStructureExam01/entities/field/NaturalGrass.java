@@ -1,5 +1,7 @@
 package com.company.HighQualityStructureExam01.entities.field;
 
+import com.company.HighQualityStructureExam01.entities.player.Player;
+
 import java.util.stream.Collectors;
 
 public class NaturalGrass extends BaseField{

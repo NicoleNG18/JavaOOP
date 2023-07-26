@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.entities;
+package com.company.HighQualityStructureExam01.entities.supplement;
 
 public abstract class BaseSupplement implements Supplement {
     private int energy;
