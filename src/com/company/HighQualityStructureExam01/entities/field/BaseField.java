@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.entities;
+package com.company.HighQualityStructureExam01.entities.field;
 
 public abstract class BaseField implements Field {
     private String name;

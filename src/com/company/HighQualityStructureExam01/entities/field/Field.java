@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.entities;
+package com.company.HighQualityStructureExam01.entities.field;
 
 public interface Field {
     int sumEnergy();

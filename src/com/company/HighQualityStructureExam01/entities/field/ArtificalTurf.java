@@ -1,6 +1,4 @@
-package com.company.HighQualityStructureExam01.entities;
-
-import java.util.stream.Collectors;
+package com.company.HighQualityStructureExam01.entities.field;
 
 public class ArtificialTurf extends BaseField {
     private static final int INITIAL_CAPACITY = 150;
