@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.entities;
+package com.company.HighQualityStructureExam01.entities.player;
 
 public class Men extends BasePlayer {
     private static double INITIAL_KILOGRAMS = 85.50;

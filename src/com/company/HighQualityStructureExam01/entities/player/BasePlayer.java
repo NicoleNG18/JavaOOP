@@ -1,4 +1,4 @@
-package com.company.HighQualityStructureExam01.entities;
+package com.company.HighQualityStructureExam01.entities.player;
 
 public abstract class BasePlayer implements Player {
     private String name;
