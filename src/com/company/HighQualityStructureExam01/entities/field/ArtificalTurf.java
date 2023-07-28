@@ -1,5 +1,9 @@
 package com.company.HighQualityStructureExam01.entities.field;
 
+import com.company.HighQualityStructureExam01.entities.player.Player;
+
+import java.util.stream.Collectors;
+
 public class ArtificialTurf extends BaseField {
     private static final int INITIAL_CAPACITY = 150;
 
@@ -31,4 +35,3 @@ public class ArtificialTurf extends BaseField {
     //Supplement: {supplementsCount}
     //Energy: {sumEnergy}"
 }
-
